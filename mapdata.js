@@ -75,7 +75,7 @@ var simplemaps_countrymap_mapdata={
   },
   state_specific: {
     IECE: {
-      name: "Clare"
+      name: "Clare",
       url: "/new-page-1"
     },
     IECN: {
