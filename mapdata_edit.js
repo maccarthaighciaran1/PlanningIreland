@@ -68,7 +68,7 @@ var simplemaps_countrymap_mapdata = {
   },
 
   state_specific: {
-    IECE: { name: "Clare", url: "/new-page-1" },
+    IECE: { name: "Clare", url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"},
     IECN: { name: "Cavan" },
     IECO: { name: "Cork" },
     IECW: { name: "Carlow" },
