@@ -133,12 +133,11 @@ var simplemaps_countrymap_mapdata = {
 
   regions: {},
 
-  // 🔥 THIS IS THE IMPORTANT PART
-  state_click: function(id) {
-    var state = simplemaps_countrymap_mapdata.state_specific[id];
+state_click: function(id) {
 
-    if (state && state.url) {
-      window.location.href = state.url;
-    }
+  if (id === "IECE") {
+    window.location.assign("https://reed-bugle-ctr9.squarespace.com/new-page-1");
   }
+
+}
 };
