@@ -81,127 +81,152 @@ var simplemaps_countrymap_mapdata={
     IECN: {
       name: "Cavan",
       color: "#1E5BB8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IECO: {
       name: "Cork",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IECW: {
       name: "Carlow",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IED: {
       name: "Dublin",
       color: "#153E9F",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEDL: {
       name: "Donegal",
       color: "#2F75C8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEG: {
       name: "Galway",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEKE: {
       name: "Kildare",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEKK: {
       name: "Kilkenny",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEKY: {
       name: "Kerry",
       color: "#2F75C8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IELD: {
       name: "Longford",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IELH: {
       name: "Louth",
       color: "#B7CCE3",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IELK: {
       name: "Limerick",
       color: "#B7CCE3",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IELM: {
       name: "Leitrim",
       color: "#B7CCE3",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IELS: {
       name: "Laois",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEMH: {
       name: "Meath",
       color: "#7EA6D6",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEMN: {
       name: "Monaghan",
       color: "#B7CCE3",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEMO: {
       name: "Mayo",
       color: "#2F75C8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEOY: {
       name: "Offaly",
       color: "#1E5BB8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IERN: {
       name: "Roscommon",
       color: "#153E9F",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IESO: {
       name: "Sligo",
       color: "#2F75C8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IETA: {
       name: "Tipperary",
       color: "#153E9F",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEWD: {
       name: "Waterford",
       color: "#B7CCE3",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEWH: {
       name: "Westmeath",
       color: "#1E5BB8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEWW: {
       name: "Wicklow",
       color: "#1E5BB8",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     },
     IEWX: {
       name: "Wexford",
       color: "#153E9F",
-      hover_color: "#0F2C87"
+      hover_color: "#0F2C87",
+      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
     }
   },
   locations: {},
