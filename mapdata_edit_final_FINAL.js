@@ -73,7 +73,7 @@ var simplemaps_countrymap_mapdata = {
   },
 
   state_specific: {
-    IECE: { name: "Clare", color: "#1E5BB8", hover_color: "#0F2C87" },
+    IECE: { name: "Clare", color: "#1E5BB8", hover_color: "#0F2C87",url: "https://reed-bugle-ctr9.squarespace.com/new-page-1" },
     IECN: { name: "Cavan", color: "#1E5BB8", hover_color: "#0F2C87" },
     IECO: { name: "Cork", color: "#7EA6D6", hover_color: "#0F2C87" },
     IECW: { name: "Carlow", color: "#7EA6D6", hover_color: "#0F2C87" },
@@ -139,9 +139,10 @@ var simplemaps_countrymap_mapdata = {
   regions: {},
 
   state_click: function(id) {
+  var state = simplemaps_countrymap_mapdata.state_specific[id];
 
-    if (id === "IECE") {
-      window.location.assign("https://reed-bugle-ctr9.squarespace.com/new-page-1");
-    }
+  if (state && state.url) {
+    window.location.href = state.url;
+  }
 }
 };
