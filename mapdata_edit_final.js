@@ -75,12 +75,13 @@ var simplemaps_countrymap_mapdata={
     state_click: function(id, event) {
 
       if (event) {
+      if (event) {
         event.preventDefault();
         event.stopPropagation();
       }
 
       if (id === "IECE") {
-        window.open("/new-page-1", "_self");
+        window.top.location.replace("https://reed-bugle-ctr9.squarespace.com/new-page-1");window.open("/new-page-1", "_self");
       }
 
     }
