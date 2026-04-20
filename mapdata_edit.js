@@ -66,7 +66,7 @@ var simplemaps_countrymap_mapdata = {
     state_image_position: "",
     location_image_url: ""
   },
-#7EA6D6
+
   state_specific: {
     IECE: { name: "Clare", color: "#1E5BB8", hover_color: "#0F2C87" },
     IECN: { name: "Cavan", color: "#1E5BB8", hover_color: "#0F2C87" },
