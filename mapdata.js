@@ -353,7 +353,7 @@ var simplemaps_countrymap_mapdata={
   console.log("Clicked state:", id);
 
   if (id === "IECE") {
-    window.location.href = "/new-page-1";
+    window.location.href = "https://reed-bugle-ctr9.squarespace.com/new-page-1";
   }
 
 }
