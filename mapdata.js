@@ -77,7 +77,7 @@ var simplemaps_countrymap_mapdata={
       name: "Clare",
       color: "#1E5BB8",
       hover_color: "#0F2C87",
-      url: "https://reed-bugle-ctr9.squarespace.com/new-page-1"
+      url: "/new-page-1"
     },
     IECN: {
       name: "Cavan",
