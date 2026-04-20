@@ -1,3 +1,4 @@
+console.log("MAPDATA LOADED");
 var simplemaps_countrymap_mapdata={
   main_settings: {
    //General settings
