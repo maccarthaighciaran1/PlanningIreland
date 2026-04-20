@@ -341,7 +341,7 @@ var simplemaps_countrymap_mapdata={
   legend: {
     entries: []
   },
-  regions:
+  regions: {},
 
   state_click: function(id, event) {
 
@@ -349,9 +349,6 @@ var simplemaps_countrymap_mapdata={
     event.preventDefault();
     event.stopPropagation();
   }
-
-  // debugging (optional)
-  console.log("Clicked state:", id);
 
   if (id === "IECE") {
     window.location.href = "https://reed-bugle-ctr9.squarespace.com/new-page-1";
