@@ -344,8 +344,8 @@ var simplemaps_countrymap_mapdata={
 
   state_click: function(id) {
   var data = simplemaps_countrymap_mapdata.state_specific[id];
-      if (data && data.url) {
-        window.location.href = data.url;
+  if (data && data.url) {
+    window.location.href = data.url;
   }
 }
 };
