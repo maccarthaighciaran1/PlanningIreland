@@ -342,10 +342,19 @@ var simplemaps_countrymap_mapdata={
   },
   regions:
 
-  state_click: function(id) {
-  var data = simplemaps_countrymap_mapdata.state_specific[id];
-  if (data && data.url) {
-    window.location.href = data.url;
+  state_click: function(id, event) {
+
+  if (event) {
+    event.preventDefault();
+    event.stopPropagation();
   }
+
+  // debugging (optional)
+  console.log("Clicked state:", id);
+
+  if (id === "IECE") {
+    window.location.href = "/new-page-1";
+  }
+
 }
 };
