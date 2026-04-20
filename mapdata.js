@@ -1,4 +1,3 @@
-console.log("MAPDATA LOADED");
 var simplemaps_countrymap_mapdata={
   main_settings: {
    //General settings
@@ -68,7 +67,7 @@ var simplemaps_countrymap_mapdata={
     images_directory: "default",
     fade_time: 0.1,
     link_text: "View Website",
-    popups: "off",
+    popups: "on",
     state_image_url: "",
     state_image_position: "",
     location_image_url: ""
@@ -341,18 +340,5 @@ var simplemaps_countrymap_mapdata={
   legend: {
     entries: []
   },
-  regions: {},
-
-  state_click: function(id, event) {
-
-  if (event) {
-    event.preventDefault();
-    event.stopPropagation();
-  }
-
-  if (id === "IECE") {
-    window.location.href = "https://reed-bugle-ctr9.squarespace.com/new-page-1";
-  }
-
-}
+  regions: {}
 };
