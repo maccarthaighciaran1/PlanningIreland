@@ -5,9 +5,7 @@ var simplemaps_countrymap_mapdata={
     background_color: "#FFFFFF",
     background_transparent: "yes",
     border_color: "#ffffff",
-    
-    //State defaults
-    state_description: "State description",
+    state_description: "",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "",
@@ -76,82 +74,133 @@ var simplemaps_countrymap_mapdata={
   state_specific: {
     IECE: {
       name: "Clare",
-      url: "/new-page-1"
+      color: "#1E5BB8",
+      hover_color: "#0F2C87"
     },
     IECN: {
-      name: "Cavan"
+      name: "Cavan",
+      color: "#1E5BB8",
+      hover_color: "#0F2C87"
     },
     IECO: {
-      name: "Cork"
+      name: "Cork",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IECW: {
-      name: "Carlow"
+      name: "Carlow",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IED: {
-      name: "Dublin"
+      name: "Dublin",
+      color: "#153E9F",
+      hover_color: "#0F2C87"
     },
     IEDL: {
-      name: "Donegal"
+      name: "Donegal",
+      color: "#2F75C8",
+      hover_color: "#0F2C87"
     },
     IEG: {
-      name: "Galway"
+      name: "Galway",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IEKE: {
-      name: "Kildare"
+      name: "Kildare",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IEKK: {
-      name: "Kilkenny"
+      name: "Kilkenny",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IEKY: {
-      name: "Kerry"
+      name: "Kerry",
+      color: "#2F75C8",
+      hover_color: "#0F2C87"
     },
     IELD: {
-      name: "Longford"
+      name: "Longford",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IELH: {
-      name: "Louth"
+      name: "Louth",
+      color: "#B7CCE3",
+      hover_color: "#0F2C87"
     },
     IELK: {
-      name: "Limerick"
+      name: "Limerick",
+      color: "#B7CCE3",
+      hover_color: "#0F2C87"
     },
     IELM: {
-      name: "Leitrim"
+      name: "Leitrim",
+      color: "#B7CCE3",
+      hover_color: "#0F2C87"
     },
     IELS: {
-      name: "Laoighis"
+      name: "Laois",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IEMH: {
-      name: "Meath"
+      name: "Meath",
+      color: "#7EA6D6",
+      hover_color: "#0F2C87"
     },
     IEMN: {
-      name: "Monaghan"
+      name: "Monaghan",
+      color: "#B7CCE3",
+      hover_color: "#0F2C87"
     },
     IEMO: {
-      name: "Mayo"
+      name: "Mayo",
+      color: "#2F75C8",
+      hover_color: "#0F2C87"
     },
     IEOY: {
-      name: "Offaly"
+      name: "Offaly",
+      color: "#1E5BB8",
+      hover_color: "#0F2C87"
     },
     IERN: {
-      name: "Roscommon"
+      name: "Roscommon",
+      color: "#153E9F",
+      hover_color: "#0F2C87"
     },
     IESO: {
-      name: "Sligo"
+      name: "Sligo",
+      color: "#2F75C8",
+      hover_color: "#0F2C87"
     },
     IETA: {
-      name: "Tipperary"
+      name: "Tipperary",
+      color: "#153E9F",
+      hover_color: "#0F2C87"
     },
     IEWD: {
-      name: "Waterford"
+      name: "Waterford",
+      color: "#B7CCE3",
+      hover_color: "#0F2C87"
     },
     IEWH: {
-      name: "Westmeath"
+      name: "Westmeath",
+      color: "#1E5BB8",
+      hover_color: "#0F2C87"
     },
     IEWW: {
-      name: "Wicklow"
+      name: "Wicklow",
+      color: "#1E5BB8",
+      hover_color: "#0F2C87"
     },
     IEWX: {
-      name: "Wexford"
+      name: "Wexford",
+      color: "#153E9F",
+      hover_color: "#0F2C87"
     }
   },
   locations: {},
