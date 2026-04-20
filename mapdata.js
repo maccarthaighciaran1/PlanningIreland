@@ -67,7 +67,7 @@ var simplemaps_countrymap_mapdata={
     images_directory: "default",
     fade_time: 0.1,
     link_text: "View Website",
-    popups: "detect",
+    popups: "off",
     state_image_url: "",
     state_image_position: "",
     location_image_url: ""
