@@ -138,17 +138,10 @@ var simplemaps_countrymap_mapdata = {
 
   regions: {},
 
-  state_click: function (id, event) {
-    if (event) {
-      event.preventDefault();
-      event.stopPropagation();
-    }
+  state_click: function(id) {
 
     if (id === "IECE") {
-      window.top.location.href =
-        "https://reed-bugle-ctr9.squarespace.com/new-page-1";
+      window.location.assign("https://reed-bugle-ctr9.squarespace.com/new-page-1");
     }
-
-    return false;
-  }
+}
 };
