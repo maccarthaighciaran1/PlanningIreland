@@ -12,7 +12,7 @@ var simplemaps_countrymap_mapdata={
     state_url: "yes",
     border_size: 1.5,
     all_states_inactive: "no",
-    all_states_zoomable: "yes",
+    all_states_zoomable: "no",
     
     //Location defaults
     location_description: "Location description",
@@ -40,8 +40,8 @@ var simplemaps_countrymap_mapdata={
     hide_eastern_labels: "no",
    
     //Zoom settings
-    zoom: "yes",
-    manual_zoom: "yes",
+    zoom: "no",
+    manual_zoom: "no",
     back_image: "no",
     initial_back: "no",
     initial_zoom: "-1",
